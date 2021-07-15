@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">AplicativoFinal</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Noticias</string>
+    <string name="menu_slideshow">Upload/Escrever</string>
+
+    <string name="headline_1">G1 ES: ES recebe mais 22 mil doses de vacinas contra Covid-19</string>
+    <string name="headline_2">A Gazeta: Empresas dão até folga para trabalhador se vacinar contra a Covid no ES</string>
+    <string name="headline_3">G1: Pela primeira vez, maioria defende abertura de impeachment de Bolsonaro, diz Datafolha</string>
+
+    <string name="subtitle_1">Doses são da CoronaVac e chegaram ao Aeroporto de Vitória na manhã desta sexta-feira (9).</string>
+    <string name="subtitle_2">Iniciativa privada tem se mobilizado para garantir a imunização de profissionais conforme a vacinação contra o novo coronavírus avança no Estado.</string>
+    <string name="subtitle_3">54% são a favor da abertura do processo e 42% são contrários. 4% não sabem. A margem de erro da pesquisa é de dois pontos percentuais para mais ou menos.</string>
+
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
